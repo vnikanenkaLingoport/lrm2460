@@ -1,0 +1,10 @@
+{
+    "test1":"This is a test!",
+    "test2":"This is the #number of tests",
+    "test3":"This is a colon: which properties need to escape",
+    "test4":"Not sure why? \t \f \n \r",
+    "test5":" and {count, plural, one {#, other} other {#, others}}",
+    "test6": "With workspace ?",
+    "test7": "And another :string",
+    "test8": "Viktar ..."
+}
